@@ -1,0 +1,5 @@
+IP: 84.201.165.14;
+name_taski: https://stepdream.hopto.org/;
+name_kittygram: https://kitti196.hopto.org/;
+login: Admin;
+password: Argon196!;
